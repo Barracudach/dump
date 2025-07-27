@@ -1,0 +1,12 @@
+import * as A from "./cc.js";
+import * as E from "./cc.js";
+
+function main() {
+    var T, D;
+    E._RF.push({}, "13fc73YJWFPJb28N3nx6Gm/", "Holdem_GameConfig", void 0);
+    const {
+        ccclass: R
+    } = A;
+    _("HoldemGameConfig", R("HoldemGameConfig")(((D = class {}).EASE_RATE = 2, D.GAME_START_DELAY_TIME = .3, D.CARD_POP_TIME = .3, D.DEAL_PLAYER_CARDS_DELAY_TIME = .1, D.DEAL_PUBLIC_CARDS_DELAY_TIME = .1, D.COLLECT_STAKE_DELAY_TIME = .1, D.SEAT_ROTATE_TIME = .6, D.PLAYER_CARD_DELAY_TIME = .05, D.PLAYER_CARD_HIDE_TIME = .5, D.PLAYER_CARD_SHOW_TIME = .3, D.PLAYER_CARD_DISCARD_TIME = .3, D.PLAYER_CARD_ROTATE_TIME = .3, D.PUBLIC_CARD_HIDE_TIME = .2, D.PUBLIC_CARD_SHOW_TIME = .3, D.PUBLIC_CARD_ROTATE_TIME = .2, D.PLAYER_STAKE_MOVE_TIME = .2, D.PLAYER_STAKE_SHADOW_ATTENUATION = .2, D.PLAYER_STAKE_SHADOW_DELAY = .01, D.PUBLIC_STAKE_MOVE_TIME = .2, D.PUBLIC_STAKE_SHADOW_DELAY = .1, D.NO_OF_STAKE_BEHIND = 4, T = D)) || T);
+    E._RF.pop()
+}
